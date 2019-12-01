@@ -1,0 +1,16 @@
+/*
+ * rc522.h
+ *
+ *  Created on: 1 груд. 2019 р.
+ *      Author: pidho
+ */
+
+#ifndef RC522_H_
+#define RC522_H_
+
+
+
+
+
+
+#endif /* RC522_H_ */
