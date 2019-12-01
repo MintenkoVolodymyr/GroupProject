@@ -1,1 +1,1 @@
-# GroupProject
+# GroupProject by PZ-41(pidpenko, pidhore, fidirko, antonyuk, mintenko)
